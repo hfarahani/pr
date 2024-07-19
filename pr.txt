@@ -1,3 +1,11 @@
+vless://e9e642fa-c4a2-4aee-a665-db3487169fff@www.speedtest.net:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=28.V.v.ww.speedtest.net.zula.ir.pinocchio1.ir.&type=ws#%40custom_config+%2829%29
+
+vless://abf12414-45e0-4bef-b36e-3083bf4b6632@www.speedtest.net:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=28.V.v.ww.speedtest.net.zula.ir.pinocchio1.ir.&type=ws#%40custom_config+%2828%29
+
+
+vless://a24c1e9e-c10d-4e8d-b614-2a988603958c@www.speedtest.net:2095?type=ws&path=%2F%3Fed%3D2048&host=27.V.v.ww.speedtest.net.zula.ir.pinocchio1.ir.&security=none#%E2%80%8D%40custom_config
+
+
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLwn4ep8J+Hqi11ZHl4djZreCIsCiAgImFkZCI6ICJuZXRsaXRlLnNpdGUiLAogICJwb3J0IjogNDM0OTAsCiAgImlkIjogIjRjMzFhNjIxLWE2ZDUtNGQxMy1hMTVmLTYwYTdjMDBhNDliNiIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogImh0dHAiLAogICJ0bHMiOiAibm9uZSIsCiAgInBhdGgiOiAiLyIKfQ==
 
 
