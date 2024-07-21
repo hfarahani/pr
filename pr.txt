@@ -6,6 +6,11 @@ vless://b84c6899-26ee-49f6-b7da-0aa51b1980bc@188.212.96.218:8195?encryption=none
 vless://b84c6899-26ee-49f6-b7da-0aa51b1980bc@188.114.96.3:2086?encryption=none&security=none&type=ws&host=www.google.com.lyra-st.ir.&path=%2FQwerty%3Fed%3D1024#%F0%9F%87%AB%F0%9F%87%AE%20%20%7C%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%201%E2%9A%A1
 vless://b84c6899-26ee-49f6-b7da-0aa51b1980bc@zula.ir:2086?encryption=none&security=none&type=ws&host=c99117d3-329a-4a19-a245-cd047cf58675.warzonemobilevpn.monster.amoozeshaparatprograming.ir.&path=%2FQwerty%3Fed%3D1024#%F0%9F%87%AB%F0%9F%87%AE%20%20%7C%20%20%D9%87%D9%80%D9%85%D9%80%D9%87%20%D8%A7%D9%BE%D9%80%D8%B1%D8%A7%D8%AA%D9%80%D9%88%D8%B1%20%D9%87%D9%80%D8%A7%20%E2%9A%A1
 vless://b84c6899-26ee-49f6-b7da-0aa51b1980bc@www.shopssl.icu:2086?encryption=none&security=none&type=ws&host=www.google.com.samanthemes.ir.&path=%2FQwerty%3Fed%3D1024#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%D8%B1%D8%A7%DB%8C%D8%AA%D9%84%20%E2%9A%A1
+
+vless://fb928eb2-6ca0-4b05-a2ed-9871d8e0891e@[2a01:4f8:1c1b:13e5::1]:2086?path=%2F%3Fed%3D2048&security=none&encryption=none&host=.%DA%86&type=ws#%40custom_config+%286%29
+
+vless://fb928eb2-6ca0-4b05-a2ed-9871d8e0891e@www.speedtest.net:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=31.V.v.ww.speedtest.net.zula.ir.pinocchio1.ir.&type=ws#%40custom_config+%284%29
+
 vless://b84c6899-26ee-49f6-b7da-0aa51b1980bc@zula.ir:2086?encryption=none&security=none&type=ws&host=c99117d3-329a-4a19-a245-cd047cf58675.warzonemobilevpn.monster.amoozeshaparatprograming.ir.dreamsaman.com.dreamlighttolife.info.&path=%2FQwerty%3Fed%3D1024#%F0%9F%87%AB%F0%9F%87%AE%20%20%7C%202%20%D9%87%D9%80%D9%85%D9%80%D9%87%20%D8%A7%D9%BE%D9%80%D8%B1%D8%A7%D8%AA%D9%80%D9%88%D8%B1%20%D9%87%D9%80%D8%A7%20%E2%9A%A1
 vmess://eyJhZGQiOiJuZXRsaXRlLnNpdGUiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiNDFhZDkwOGEtMGM2ZC01MTE3LTI5YTAtZjlhNTU2ZTlkMGI4IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDM0OTAiLCJwcyI6IjE0MDMwNDMwcmF6YXZpLUJvdCIsInNjeSI6ImF1dG8iLCJzbmkiOiI5MS4xMDcuMTYzLjE2OSIsInRscyI6Im5vbmUiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 
