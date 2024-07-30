@@ -1,3 +1,6 @@
+
+vless://c1bea94a-6adf-cffd-2c24-d9036635ecc4@vip1.bluewale.online:56931?type=tcp&host=discord.com&security=none&sni=/&alpn=&path=/&headerType=http#cl96RK-Bot
+
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIls5MTRfSGYxNDAzMDQxNV0gXHUwNjJEXHUwNjJDXHUwNjQ1PTQyLjM1IEdCXHVEODNEXHVEQ0NBOT1cdTA2MzFcdTA2NDhcdTA2MzIiLA0KICAiYWRkIjogIjJhMDE6NGY5OmMwMTA6MjM0MDo6MSIsDQogICJwb3J0IjogIjgzODEiLA0KICAiaWQiOiAiNDUyNDViOWMtZjk3OS00NzZhLWFlMTItNTA0ZmE5ODMyOTUwIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJodHRwIiwNCiAgImhvc3QiOiAic3BlZWR0ZXN0Lm5ldCIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 vless://5cc01f23-7157-49ba-bd6c-526aae021f28@188.114.96.3:2086?encryption=none&security=none&type=ws&host=www.google.com.lyra-st.ir.&path=%2FQwerty%3Fed%3D1024#%F0%9F%87%AB%F0%9F%87%AE%20%20%7C%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%201%E2%9A%A1
 vless://5cc01f23-7157-49ba-bd6c-526aae021f28@zula.ir:2086?encryption=none&security=none&type=ws&host=c99117d3-329a-4a19-a245-cd047cf58675.warzonemobilevpn.monster.amoozeshaparatprograming.ir.&path=%2FQwerty%3Fed%3D1024#%F0%9F%87%AB%F0%9F%87%AE%20%20%7C%20%20%D9%87%D9%80%D9%85%D9%80%D9%87%20%D8%A7%D9%BE%D9%80%D8%B1%D8%A7%D8%AA%D9%80%D9%88%D8%B1%20%D9%87%D9%80%D8%A7%20%E2%9A%A1
