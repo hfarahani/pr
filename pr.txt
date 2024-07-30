@@ -1,3 +1,5 @@
+vless://c1bea94a-6adf-cffd-2c24-d9036635ecc4@vip1.bluewale.online:56931?type=tcp&host=fast.com&security=none&sni=/&alpn=&path=/&headerType=http#cl96RK-Bot
+
 
 vless://c1bea94a-6adf-cffd-2c24-d9036635ecc4@vip1.bluewale.online:56931?type=tcp&host=discord.com&security=none&sni=/&alpn=&path=/&headerType=http#cl96RK-Bot
 
