@@ -1,5 +1,6 @@
 vless://c1bea94a-6adf-cffd-2c24-d9036635ecc4@vip1.bluewale.online:56931?type=tcp&host=fast.com&security=none&sni=/&alpn=&path=/&headerType=http#cl96RK-Bot
 
+vless://035f44cd-53a8-9d1a-d774-a1d3246bb5e7@vip1.bluewale.online:56931?type=tcp&host=fast.com&security=none&sni=/&alpn=&path=/&headerType=http#rahmani14030505-Bot
 
 vless://c1bea94a-6adf-cffd-2c24-d9036635ecc4@vip1.bluewale.online:56931?type=tcp&host=discord.com&security=none&sni=/&alpn=&path=/&headerType=http#cl96RK-Bot
 
