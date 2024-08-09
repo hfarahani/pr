@@ -55,3 +55,5 @@ vless://99f4eba2-abb8-40d9-9908-8cc8dece0bb2@sv2.netliite.org:55448/?type=tcp&pa
 
 
 vless://77ed53f9-47b3-969c-7956-1ef83ea10a54@sv2.netliite.org:56633?type=tcp&host=fast.com&security=none&sni=/&alpn=&path=/&headerType=http#McCs5j-Bot
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.219:443?path=%2Fe5cttUnmlRQEi60G%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=shoLpaGE.PAges.DeV&fp=randomized&type=ws&sni=SHOlPAGE.PAGEs.DEV#%F0%9F%92%A6+BPB+-+172.66.44.219
