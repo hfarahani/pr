@@ -40,6 +40,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@sholworker.hossein-f.workers.dev:44
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.25.240.202:443?encryption=none&security=tls&sni=ShoLWOrKeR.HoSSEin-f.WoRkErS.DEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=shoLworKEr.HOsSEIN-f.WoRkerS.dEV&path=%2FhTXdTbngxg6gAJrx%3Fed%3D2048#%F0%9F%92%A6%20BPB%20-%20104.25.240.202
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?encryption=none&security=tls&sni=sHOlwORKeR.HOsSein-F.wORKERs.DEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=SholwORKeR.hosSEIN-f.WOrKErS.DEV&path=%2FKB4aBAeMFwCoK3zd%3Fed%3D2048#%F0%9F%92%A6%20BPB%20-%20188.114.97.3
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?encryption=none&security=tls&sni=sHolWORKER.HosseiN-f.WORKeRs.DEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=sHOLworKer.HOSsEIn-f.WorkeRs.DeV&path=%2FEb98UvSnwqwV4y0E%3Fed%3D2048#%F0%9F%92%A6%20BPB%20-%20188.114.96.3
+vless://77ed53f9-47b3-969c-7956-1ef83ea10a54@sv2.sv2.netlitenetlite.site:56633?encryption=none&security=none&sni=/&type=tcp&headerType=http&host=speedtest.net#McCs5j-Bot
 
 vless://77ed53f9-47b3-969c-7956-1ef83ea10a54@sv2.netliite.org:56633?type=tcp&host=fast.com&security=none&sni=/&alpn=&path=/&headerType=http#McCs5j-Bot
 
