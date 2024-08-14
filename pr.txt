@@ -56,3 +56,21 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.219:443?path=%2Fe5cttUnml
 
 vless://0ab869a0-366f-9b87-7720-6e695b9da275@sv2.sv2.netlitenetlite.site:56633?encryption=none&security=none&sni=/&type=tcp&headerType=http&host=speedtest.net#McCs5j-Bot
 vless://858659da-366e-b83d-78e9-40fcca70fa69@sv2.sv2.netlitenetlite.site:56633?encryption=none&security=none&sni=/&type=tcp&headerType=http&host=speedtest.net#sQ8vLE-Bot
+
+
+trojan://80021ff1-a623-414a-b6a9-f3e349648326@dns1.tehranpastor.ir:443?path=%2FDSh61ky3ku2QWhZZL9Q&security=tls&alpn=http/1.1&host=three.prosetnet2.ir&fp=chrome&type=ws&sni=three.prosetnet2.ir#%F0%9F%87%AB%F0%9F%87%AE+NETORON+MCI+3+%232
+
+
+vless://80021ff1-a623-414a-b6a9-f3e349648326@104.31.16.44:80?path=%2FlHtVsOpnWC8m2y3PYLHrPs74EJW&security=none&encryption=none&host=fr1.linkconnection.network&type=ws#%F0%9F%87%AB%F0%9F%87%B7+NETORON+%235
+
+
+vless://80021ff1-a623-414a-b6a9-f3e349648326@104.31.16.90:80?path=%2F42J7lR0lDjbHHCjS03tmSfM&security=none&encryption=none&host=uk1.linkconnection.network&type=ws#%F0%9F%87%AC%F0%9F%87%A7+NETORON+%235
+
+vless://80021ff1-a623-414a-b6a9-f3e349648326@dns1.tehranpastor.ir:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=G4NZN6OLPTpT7VF9bVILBuq5ws0&sni=three.prosetnet2.ir#%F0%9F%87%AB%F0%9F%87%AE+NETORON+MCI+3+%233
+
+trojan://80021ff1-a623-414a-b6a9-f3e349648326@173.245.58.111:443?path=%2FktJ1R8zOWdBan3U04&security=tls&alpn=http/1.1&host=gr3.linkconnection.network&fp=chrome&type=ws&sni=gr3.linkconnection.network#%F0%9F%87%A9%F0%9F%87%AA+NETORON+%232
+
+
+trojan://80021ff1-a623-414a-b6a9-f3e349648326@dns1.tehranpastor.ir:443?mode=gun&security=tls&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=ktJ1R8zakwotizHBg3ohLk&sni=one.prosetnet2.ir#%F0%9F%87%A9%F0%9F%87%AA+NETORON+MCI+3+%234
+
+
