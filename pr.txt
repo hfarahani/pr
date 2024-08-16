@@ -74,3 +74,7 @@ trojan://80021ff1-a623-414a-b6a9-f3e349648326@173.245.58.111:443?path=%2FktJ1R8z
 trojan://80021ff1-a623-414a-b6a9-f3e349648326@dns1.tehranpastor.ir:443?mode=gun&security=tls&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=ktJ1R8zakwotizHBg3ohLk&sni=one.prosetnet2.ir#%F0%9F%87%A9%F0%9F%87%AA+NETORON+MCI+3+%234
 
 
+trojan://80021ff1-a623-414a-b6a9-f3e349648326@fi1.moonwarp.workers.dev:443?path=%2FDSh61ky3ku2QWhZZL9Q&security=tls&alpn=http/1.1&host=fi1.moonwarp.workers.dev&fp=chrome&type=ws&sni=fi1.moonwarp.workers.dev#%F0%9F%87%AB%F0%9F%87%AE+NETORON+DEV+%232
+vless://80021ff1-a623-414a-b6a9-f3e349648326@dns1.tehranpastor.ir:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=lHtVsOpnWC8m2y3qM6YJqRrtUw&sni=four.prosetnet2.ir#%F0%9F%87%AB%F0%9F%87%B7+NETORON+MCI+3+%233
+
+tehranpastor.ir:443?mode=gun&security=tls&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=SockDDm21u9qPLEmEk3NSXfoz8jK&sni=five.prosetnet2.ir#%F0%9F%87%AC%F0%9F%87%A7+NETORON+MCI+3+%234
