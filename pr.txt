@@ -1,8 +1,8 @@
 vless://93898e14-83e5-4bc4-be42-44fd4328c65c@proton.netliite.org:32960?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#1-wa1u1490
 vless://7db834ec-1847-4f0c-9e24-d7f12fd43187@k1.allservers.org:443?path=%2F11790%2Fstaticvpn&security=tls&encryption=none&host=k1.allservers.org&fp=random&type=ws#free5+telegram%3A+%40staticvpn
-
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#%F0%9F%87%AD%F0%9F%87%BA%20HU-91.219.237.102%3A990
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443
 vless://c446c557-7b29-4dbe-ab63-3482f0333ccb@pchpch.netliite.org:56569?type=tcp&path=%2F&host=speedtest.net&headerType=http&security=none#2-wa2u1634
-
 vless://7db834ec-1847-4f0c-9e24-d7f12fd43187@k1.allservers.org:443?path=%2F11790%2Fstaticvpn&security=tls&encryption=none&host=k1.allservers.org&fp=random&type=ws#free5+telegram%3A+%40staticvpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.152.152:443#%40V2rayNGVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#%40V2rayNGVPN
