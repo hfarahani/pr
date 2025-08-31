@@ -1,3 +1,5 @@
+hysteria2://NsftgI6uPR@45.140.164.237:11001?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1#VPNy-FR
+
 vless://375dd25d-0ec6-454c-be6f-ce67b196b23b@104.21.84.22:443?encryption=none&security=tls&sni=freedom11.fmnxmt.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=freedom11.fmnxmt.workers.dev&path=%2F#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.84.22%3A443
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@www.speedtest.net:443?encryption=none&security=tls&sni=COol-papER-B369.H-175.WorkeRs.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=cool-paper-b369.h-175.workers.dev&path=%2FQgjxp6IgjyJDypLz%3Fed%3D2560#%F0%9F%92%A7%202%20-%20VLESS%20-%20Domain%20%3A%20443
 vless://38141d3b-ddde-4a2f-8d26-a31ddcd49c8a@104.21.7.193:8080?encryption=none&security=none&fp=randomized&type=ws&host=520.msdtlasm.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.7.193%3A8080
