@@ -1,3 +1,5 @@
+hysteria2://NsftgI6uPR@45.140.164.237:11001?obfs=salamander&obfs-password=KevinZakarian&insecure=1#VPNy-FR
+hysteria2://T15EDThTgP@185.141.216.191:11001?obfs=salamander&obfs-password=KevinZakarian&insecure=1#VPNy.net-CA%F0%9F%87%A8%F0%9F%87%A6
 
 hysteria2://BQg0gN7qy2@69.42.220.106:11001?obfs=salamander&obfs-password=KevinZakarian&insecure=1#VPNy.net-DE%F0%9F%87%A9%F0%9F%87%AA
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.71.31:443?encryption=none&security=tls&sni=azadnet-6i3.pages.dev&fp=randomized&allowInsecure=1&type=ws&host=azadnet-6i3.pages.dev&path=%2Fazadnet-6i3.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.17.71.31%3A443
