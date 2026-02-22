@@ -1,3 +1,4 @@
+hysteria2://6XVoX24yWn@ox.serverv.net:11001?insecure=1&allowInsecure=1&obfs=salamander&obfs-password=KevinZakarian#VPNy.net-DE%F0%9F%87%A9%F0%9F%87%AA
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.71.31:443?encryption=none&security=tls&sni=azadnet-6i3.pages.dev&fp=randomized&allowInsecure=1&type=ws&host=azadnet-6i3.pages.dev&path=%2Fazadnet-6i3.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless#%برنامه v2ray رو آپدیت کنید تا سرورهای بیشتر و بهتری براتون فعال بشه
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.71.31:443?encryption=none&security=tls&sni=azadnet-6i3.pages.dev&fp=randomized&allowInsecure=1&type=ws&host=azadnet-6i3.pages.dev&path=%2Fazadnet-6i3.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless#برنامه hiddify رو برای اتصال از طریق همین تنظیمات استفاده کنید تا سرعت بهتری داشته باشید
 
